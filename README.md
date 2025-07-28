@@ -1,4 +1,4 @@
-# Face_Mask_Detection
+
 # Face Mask Detection Using CNN
 
 This project uses a Convolutional Neural Network (CNN) to classify whether people in images are wearing face masks or not. It is trained on the public [Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset) available on Kaggle.
